@@ -14,7 +14,7 @@
 ![screenshot](images/class__homestate(4).png)
 
 - Hasil _running file upload_<br>
-![screenshot](images/video_player.png)
+![screenshot](images/file_upload.png)
 
 ## 2. Video Player
 - Import _library_ **video_player** pada **pubspec.yaml**<br>
