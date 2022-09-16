@@ -19,3 +19,6 @@
 
 - Memainkan video
 ![screenshot](images/memainkan_video.png)
+
+- Hasil _running video player_ 
+![screenshot](images/video_player.png)
