@@ -17,3 +17,5 @@
 ![screenshot](images/menampilkan_video_player.png)
 ![screenshot](images/menampilkan_video_player(2).png)
 
+- Memainkan video
+![screenshot](images/memainkan_video.png)
