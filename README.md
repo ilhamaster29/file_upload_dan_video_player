@@ -4,16 +4,16 @@
 - Import library **image_picker** pada **pubspec.yaml**<br>
 ![screenshot](images/import_library_image_picker.png)
 
-- Class Home 
+- Class Home<br>
 ![screenshot](images/class_home.png)
 
-- Class _HomeState
+- Class _HomeState<br>
 ![screenshot](images/class__homestate.png)
 ![screenshot](images/class__homestate(2).png)
 ![screenshot](images/class__homestate(3).png)
 ![screenshot](images/class__homestate(4).png)
 
-- Hasil _running file upload_
+- Hasil _running file upload_<br>
 ![screenshot](images/video_player.png)
 
 ## 2. Video Player
