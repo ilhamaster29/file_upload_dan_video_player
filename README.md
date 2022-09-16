@@ -1,7 +1,7 @@
 # Laporan Praktikum
 
 ## 1. File Upload
-- Import library **image_picker** pada **pubspec.yaml**
+- Import library **image_picker** pada **pubspec.yaml**<br>
 ![screenshot](images/import_library_image_picker.png)
 
 - Class Home 
